@@ -1,0 +1,145 @@
+﻿  Appestiser.cpp
+  Beverage.cpp
+  Item.cpp
+  ItemList.cpp
+  MainCourse.cpp
+  Menu.cpp
+C:\Users\willi\OneDrive\Documents\_Uni\Year2\Advanced Programming\Takeaway\Takeaway\Menu.cpp(93,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\willi\OneDrive\Documents\_Uni\Year2\Advanced Programming\Takeaway\Takeaway\Menu.cpp(106,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\willi\OneDrive\Documents\_Uni\Year2\Advanced Programming\Takeaway\Takeaway\Menu.cpp(116,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\willi\OneDrive\Documents\_Uni\Year2\Advanced Programming\Takeaway\Takeaway\Menu.cpp(129,13): warning C4018: '>': signed/unsigned mismatch
+  Order.cpp
+C:\Users\willi\OneDrive\Documents\_Uni\Year2\Advanced Programming\Takeaway\Takeaway\Order.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\willi\OneDrive\Documents\_Uni\Year2\Advanced Programming\Takeaway\Takeaway\Order.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\willi\OneDrive\Documents\_Uni\Year2\Advanced Programming\Takeaway\Takeaway\Order.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\willi\OneDrive\Documents\_Uni\Year2\Advanced Programming\Takeaway\Takeaway\Order.cpp(109,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\willi\OneDrive\Documents\_Uni\Year2\Advanced Programming\Takeaway\Takeaway\Order.cpp(123,20): warning C4018: '<': signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(1544,27): warning C4244: 'argument': conversion from 'float' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(1543): message : see reference to function template instantiation 'bool std::_Debug_lt_pred<_Pr&,float&,float&,0>(std::greater<int>&,_Ty1,_Ty2) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::greater<int>,
+              _Ty1=float &,
+              _Ty2=float &
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\algorithm(4108): message : see reference to function template instantiation '_BidIt std::_Insertion_sort_unchecked<_RanIt,_Pr>(_BidIt,const _BidIt,_Pr)' being compiled
+          with
+          [
+              _BidIt=float *,
+              _RanIt=float *,
+              _Pr=std::greater<int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\algorithm(4138): message : see reference to function template instantiation 'void std::_Sort_unchecked<float*,_Fn>(_RanIt,_RanIt,int,_Pr)' being compiled
+          with
+          [
+              _Fn=std::greater<int>,
+              _RanIt=float *,
+              _Pr=std::greater<int>
+          ]
+C:\Users\willi\OneDrive\Documents\_Uni\Year2\Advanced Programming\Takeaway\Takeaway\Order.cpp(92): message : see reference to function template instantiation 'void std::sort<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,std::greater<int>>(const _RanIt,const _RanIt,_Pr)' being compiled
+          with
+          [
+              _Ty=float,
+              _RanIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<float>>>,
+              _Pr=std::greater<int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(1544,20): warning C4244: 'argument': conversion from 'float' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(1544,62): warning C4244: 'argument': conversion from 'float' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(1544,54): warning C4244: 'argument': conversion from 'float' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\algorithm(4044,32): warning C4244: 'argument': conversion from 'float' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\algorithm(4119): message : see reference to function template instantiation 'std::pair<_RanIt,_RanIt> std::_Partition_by_median_guess_unchecked<_RanIt,_Pr>(_RanIt,_RanIt,_Pr)' being compiled
+          with
+          [
+              _RanIt=float *,
+              _Pr=std::greater<int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\algorithm(4044,22): warning C4244: 'argument': conversion from 'float' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\algorithm(4048,92): warning C4244: 'argument': conversion from 'float' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\algorithm(4048,82): warning C4244: 'argument': conversion from 'float' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\algorithm(4058,40): warning C4244: 'argument': conversion from 'float' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\algorithm(4058,30): warning C4244: 'argument': conversion from 'float' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\algorithm(4070,40): warning C4244: 'argument': conversion from 'float' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\algorithm(4070,30): warning C4244: 'argument': conversion from 'float' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(1546,57): warning C4244: 'argument': conversion from 'float' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\algorithm(3986): message : see reference to function template instantiation 'bool std::_Debug_lt_pred<_Pr&,float&,float&,0>(std::greater<int>&,_Ty1,_Ty2) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::greater<int>,
+              _Ty1=float &,
+              _Ty2=float &
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\algorithm(4108): message : see reference to function template instantiation '_BidIt std::_Insertion_sort_unchecked<_RanIt,_Pr>(_BidIt,const _BidIt,_Pr)' being compiled
+          with
+          [
+              _BidIt=float *,
+              _RanIt=float *,
+              _Pr=std::greater<int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(1546,50): warning C4244: 'argument': conversion from 'float' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(1548,9): warning C4244: 'argument': conversion from 'float' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Takeaway.cpp
+C:\Users\willi\OneDrive\Documents\_Uni\Year2\Advanced Programming\Takeaway\Takeaway\Takeaway.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\willi\OneDrive\Documents\_Uni\Year2\Advanced Programming\Takeaway\Takeaway\Takeaway.cpp(108,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\willi\OneDrive\Documents\_Uni\Year2\Advanced Programming\Takeaway\Takeaway\Takeaway.cpp(145,22): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Takeaway.vcxproj -> C:\Users\willi\OneDrive\Documents\_Uni\Year2\Advanced Programming\Takeaway\Debug\Takeaway.exe
